@@ -5,4 +5,4 @@ My python projects
 
 (•) second project "Student_management".
 
-(•) Thrid project "library_management_system".
+(•) Third project "library_management_system".
